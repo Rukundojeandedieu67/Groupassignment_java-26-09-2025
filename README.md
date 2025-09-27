@@ -1,1 +1,6 @@
 # Groupassignment_java-26-09-2025
+Group10:
+Names: RUKUNDO JEAN DE DIEU 223019222
+       IMANISHIMIRWE	Grace 223014770
+       UWASE BEATRICE      222010610
+
